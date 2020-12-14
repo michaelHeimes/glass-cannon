@@ -23,7 +23,7 @@
 <?php endif;?>
 <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
 
-<?php wp_head(); ?> <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0dc0918b0de900d1d5c43e860/e6196875c6e0db543b939a268.js");</script>
+<?php wp_head(); ?> <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0dc0918b0de900d1d5c43e860/7792c96c7d2e72c6e63e196ea.js");</script>
 </head>
 
 <body <?php body_class(); ?>>

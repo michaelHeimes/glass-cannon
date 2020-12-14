@@ -10,3 +10,19 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/glasscan/public_html/wp-content/themes/glass-cannon/index.php on line 15
+[29-Sep-2020 08:42:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/glasscan/public_html/glasscannonnetwork.com/wp-content/themes/glass-cannon/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/glasscan/public_html/glasscannonnetwork.com/wp-content/themes/glass-cannon/index.php on line 15
+[22-Oct-2020 01:05:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/glasscan/public_html/glasscannonnetwork.com/wp-content/themes/glass-cannon/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/glasscan/public_html/glasscannonnetwork.com/wp-content/themes/glass-cannon/index.php on line 15
+[22-Oct-2020 23:18:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/glasscan/public_html/glasscannonnetwork.com/wp-content/themes/glass-cannon/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/glasscan/public_html/glasscannonnetwork.com/wp-content/themes/glass-cannon/index.php on line 15
+[23-Oct-2020 00:22:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/glasscan/public_html/glasscannonnetwork.com/wp-content/themes/glass-cannon/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/glasscan/public_html/glasscannonnetwork.com/wp-content/themes/glass-cannon/index.php on line 15
